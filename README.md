@@ -24,13 +24,13 @@ Die aktuelle Version findet man unter [Releases](https://github.com/MM2-0/Quaesi
 
 ## Probleme berichten
 
-Sollte die App abstürzen, erscheint eine Benachrichtigung. Tippt man auf diese, öffnet sich der Crash-Reporter, wo der Stacktrace und Informationen zum Gerät angezeigt werden. Selbige Seite kann auch über Einstellungen > Über > Crash-Reporter >  Crashes aufgerufen werden. Den Stacktrace bitte mit Mindestens dem Geräte-Modell und der Android-Version als Issue erstellen. Wenn es reproduzierbar ist bitte Schritte angeben, wie man diesen Absturz reproduzieren kann.
+Sollte die App abstürzen, erscheint eine Benachrichtigung. Tippt man auf diese, öffnet sich der Crash-Reporter, wo der Stacktrace und Informationen zum Gerät angezeigt werden. Selbige Seite kann auch über Einstellungen > Über > Crash-Reporter >  Crashes aufgerufen werden. Den Stacktrace bitte mit Mindestens dem Geräte-Modell und der Android-Version als [Issue](https://github.com/MM2-0/Quaesitio/issues) erstellen. Wenn es reproduzierbar ist bitte Schritte angeben, wie man diesen Absturz reproduzieren kann.
 
-Andere Arten von Bugs bitte so genau wie möglich mit Gerätenamen und Android-Version im Issuetracker beschreiben. Sollte sich unter Einstellungen > Über > Crash-Reporter > Exceptions ein passender Eintrag befinden, den Stacktrace mit posten, ansonsten über Einstellungen > Über > Debug-Informationen exportieren einen Log erstellen
+Andere Arten von Bugs bitte so genau wie möglich mit Gerätenamen und Android-Version im [Issuetracker](https://github.com/MM2-0/Quaesitio/issues) beschreiben. Sollte sich unter Einstellungen > Über > Crash-Reporter > Exceptions ein passender Eintrag befinden, den Stacktrace mit posten, ansonsten über Einstellungen > Über > Debug-Informationen exportieren einen Log erstellen
 
 ## Verbesserungsvorschläge machen
 
-Für Feature-Requests und Verbesserungsvorschläge einfach einen neuen Issue mit dem Label 'enhancement' erstellen.
+Für Feature-Requests und Verbesserungsvorschläge einfach einen neuen [Issue](https://github.com/MM2-0/Quaesitio/issues) mit dem Label 'enhancement' erstellen.
 
 ## Weiteres
 
