@@ -21,6 +21,7 @@ Die App kann auf allen Geräten auf denen mindestens Android 5.0 läuft installi
 ## Download
 
 Die aktuelle Version findet man unter [Releases](https://github.com/MM2-0/Quaesitio/releases) zum Download.
+Des weiteren existiert ein F-Droid-Repository: https://github.com/MM2-0/fdroid
 
 ## Probleme berichten
 
