@@ -1,6 +1,6 @@
 # Quaesitio
 
-**Archived**: A new repository has been created under the same name: https://github.com/MM2-0/Quaesitio
+**Archived**: A new repository has been created to replace this repository: https://github.com/MM2-0/Quaesitio
 
 Quaesitio (lat. der Suchende, Arbeitsname) ist ein von Grund auf neu entwickelter Launcher für Android, das heißt anders als die meisten Custom-Launcher basiert er nicht auf dem AOSP-Launcher und verfolgt auch andere Bedienkonzepte.
 
